@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreeraksha369  
 - 👀 I’m interested in software development, problem-solving, and exploring new tech domains  
-- 🌱 I’m currently learning C++, Data Structures & Algorithms, and Web Development  
+- 🌱 I’m currently learning Data Structures & Algorithms(java), and Web Development(Full_Stack) 
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects and coding challenges  
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sree-raksha-sp) | Email: 1nt23is216.sree@nmit.ac.in
 - 😄 Pronouns: She/Her  
